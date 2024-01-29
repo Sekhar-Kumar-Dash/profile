@@ -5,7 +5,7 @@
 
 
 <!-- GitHub stats from https://github.com/Sekhar-Kumar-Dash/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=SekharKumarDash&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sekhar-Kumar-Dash&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
